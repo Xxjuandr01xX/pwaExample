@@ -1,0 +1,17 @@
+{
+  "name": "Example App",  
+  "short_name": "EA",  
+  "theme_color": "#fff",  
+  "background_color": "#fff",  
+  "display": "standalone",  
+  "orientation": "protrait",  
+  "scope": "./",  
+  "start_url": "./",
+  "icons": [
+    {
+      "src"   : "./img/icon-72x72.png",
+      "sizes" : "72x72",
+      "type"  : "image/png"
+    }
+  ]
+}
